@@ -29,4 +29,5 @@ pip install coverage nose2
 ``` 
 nose2 -v --with-coverage
 ```
-file:///home/kunanon/Pictures/Screenshots/Screenshot%20from%202024-02-11%2021-16-14.png![image](https://github.com/kanjicool/Software-Testing/assets/144304593/ead69b28-0641-421a-ba28-91d4b847d216)
+
+![Screenshot from 2024-02-11 21-16-14](https://github.com/kanjicool/Software-Testing/assets/144304593/949d6b7b-0fbc-4cb4-9f1e-6719adbcaed1)
